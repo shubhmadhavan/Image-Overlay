@@ -6,9 +6,10 @@ A plugin for the popular note-taking application Obsidian
 - Image Overlay: Clicking on an Image Opens up an Overlay that shows the Image in its Original Size. This feature is persistent.
 - Image Stacking: Clicking on the Image Overlay Ribbon Icon allows User to Stack all Images on the Right. The images are still clickable. 
 
-![image](https://github.com/user-attachments/assets/ffa09efe-e7d6-451d-b454-eba20ad4e541)
-![image](https://github.com/user-attachments/assets/161d5778-dd8f-4474-bbd3-d9f46140443d)
-![image](https://github.com/user-attachments/assets/b7434e52-8311-4522-9566-f269814489d3)
+<img src="https://github.com/user-attachments/assets/ffa09efe-e7d6-451d-b454-eba20ad4e541" height="420" />
+<img src="https://github.com/user-attachments/assets/161d5778-dd8f-4474-bbd3-d9f46140443d" height="420" />
+<img src="https://github.com/user-attachments/assets/b7434e52-8311-4522-9566-f269814489d3" height="420" />
+
 
 
 # Install
