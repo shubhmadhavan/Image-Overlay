@@ -8,10 +8,9 @@ A plugin for the popular note-taking application Obsidian
 
 <img src="https://github.com/user-attachments/assets/ffa09efe-e7d6-451d-b454-eba20ad4e541" height="320" />
 <img src="https://github.com/user-attachments/assets/161d5778-dd8f-4474-bbd3-d9f46140443d" height="320" />
-<img src="https://github.com/user-attachments/assets/e4646b1e-d3c7-426b-9492-f6d8ffa34e02" height="320" />
+<img src="https://github.com/user-attachments/assets/383bc258-877c-4e1a-addf-d84c400d87db" height="320" />
 
-
-# Install
+# Installation
 ## Method 1: From the Community Plugin Browser:
 - Open Obsidian Settings → Community Plugins → (ensure Restricted Mode is turned Off) → Click on "Browse" (next to Community Plugins) → Search Image Overlay
 
