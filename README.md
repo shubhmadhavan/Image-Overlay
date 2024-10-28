@@ -8,8 +8,7 @@ A plugin for the popular note-taking application Obsidian
 
 <img src="https://github.com/user-attachments/assets/ffa09efe-e7d6-451d-b454-eba20ad4e541" height="320" />
 <img src="https://github.com/user-attachments/assets/161d5778-dd8f-4474-bbd3-d9f46140443d" height="320" />
-<img src="https://github.com/user-attachments/assets/b7434e52-8311-4522-9566-f269814489d3" height="320" />
-
+<img src="https://github.com/user-attachments/assets/e4646b1e-d3c7-426b-9492-f6d8ffa34e02" height="320" />
 
 
 # Install
