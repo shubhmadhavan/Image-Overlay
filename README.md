@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2a67d25a-77d8-4292-900e-645346eb4322)# Image-Overlay-Obsidian
+# Image-Overlay-Obsidian
 A plugin for the popular note-taking application Obsidian
 
 
