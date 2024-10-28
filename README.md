@@ -9,7 +9,7 @@ A plugin for the popular note-taking application Obsidian
 <img src="https://github.com/user-attachments/assets/ffa09efe-e7d6-451d-b454-eba20ad4e541" height="320" />
 <img src="https://github.com/user-attachments/assets/161d5778-dd8f-4474-bbd3-d9f46140443d" height="320" />
 <img src="https://github.com/user-attachments/assets/383bc258-877c-4e1a-addf-d84c400d87db" height="320" />  <br>
-  <div style="text-align: center;"><em> Normal View, Image Stacked and Image Overlay</em></div>
+  <div style="text-align: center !important;"><em> Normal View, Image Stacked and Image Overlay</em></div>
 
 # Installation
 ## Method 1: From the Community Plugin Browser:
